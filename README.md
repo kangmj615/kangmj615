@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MinJi Kang. 
-- 👀 I’m interested in learning all kinds of languages and sports.
-- 🌱 I’m currently learning to be an English teacher/professor and a computer geek 
-- 💞️ I’m looking to collaborate on anything. Hit me up if you are interested in working on a project with me ;) 
+- 👀 I’m interested in learning all kinds of languages.
+- 🌱 I’m currently learning to be an English teacher and a computer geek 
+- 💞️ I’m looking to collaborate on anything. Hit me up if you are interested in working on a project with me :) 
 - 📫 How to reach me kangmj615@gmail.com  
 
 <!---
